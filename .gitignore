@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/.vs/C-compiler/v16/.suo
+/.vs/C-compiler/v16
